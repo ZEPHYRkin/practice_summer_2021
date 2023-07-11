@@ -1,0 +1,206 @@
+@font-face{
+    font-family: 'Gilroy-SemiBold';
+    src: url('../font/Gilroy/Gilroy-SemiBold.woff');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'Gilroy';
+    src: url('../font/Gilroy/Gilroy-Medium.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'Gilroy-Light';
+    src: url('../font/Gilroy/Gilroy-Light.woff');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../font/Gilroy/Gilroy-Bold.ttf');
+    font-style: normal;
+    font-weight: bold;
+}
+@font-face{
+    font-family: "Galien";
+    src: url('../font/Galien/TTF/Galien-Bold.ttf');
+    font-style: normal;
+    font-weight: bold;
+}
+#start_section_homepage{
+    background: linear-gradient(0deg, #98C3E8 8.84%, rgba(152, 195, 232, 0) 31.12%);
+}
+#New_automation{
+    font-family: 'Galien';
+    font-size: 46px;
+    line-height: 74px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+#Lorem_Automation{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+#submit_button{
+    width: 220px;
+    height: 56px;
+    border:rgba(53, 110, 173, 1);
+    background: #5A98D0;
+    box-shadow: 50px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+#submit_button:hover{
+    transition: 0.3s;
+    background-color: #4f8bc0;
+}
+#background_row_image{
+    background-image: url("../img/illustration.svg");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+#What_we_do{
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #316099;
+}
+#map_wrapper_homepage_card{
+    margin-left: 40%;
+    margin-top: 40%;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+}
+h4{
+    font-family: 'Gilroy';
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+
+}
+#card_style, p{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+}
+.Our_Finished_project{
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+}
+.maps_wrapper_second{
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    width: 75%;
+}
+.smart_home{
+    background-image: url("../img/finished_proj_1.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#sparklite{
+    height: 400px;
+    width: 100%;
+}
+#car{
+    height: 400px;
+    width: 100%;
+}
+.our_beloved_client{
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+.span_our_beloved_client{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.table{
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 46px;
+    letter-spacing: 0.02em;
+    color: #F2F2F2;
+
+}
+#out_bev_client_container{
+    background: #5A98D0;
+    border-radius: 200px 0px 0px 0px;
+    width: 100%;
+}
+#background__section{
+    background-color: #316099;
+    background-size: 100%;
+    border-radius: 0px 200px 0px 0px;
+}
+#Intersed_text{
+    font-family: 'Gilroy';
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    color: #ffffff;
+}
+#Lorem_text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+#p_white__text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+.first_button{
+    width: 220px;
+    height: 56px;
+    left: 853px;
+    top: 2073px;
+    border: 0;
+    background: #5A98D0;
+    border-radius: 10px;
+    color: white;
+}
+.first_button:hover{
+    transition: 0.3s;
+    background-color: #4f8bc0;
+}
+.end_footer{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
